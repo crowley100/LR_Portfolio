@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PP1",
+			"Path": "D:\\work\\UE4_Projects\\LR_Portfolio\\PP1\\Source\\PP1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PP1Editor",
+			"Path": "D:\\work\\UE4_Projects\\LR_Portfolio\\PP1\\Source\\PP1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
